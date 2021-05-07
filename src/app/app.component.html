@@ -1,45 +1,45 @@
 
 <!--<app-login></app-login>-->
 <!--<app-forgot-password></app-forgot-password>-->
-<!--<app-channel></app-channel>-->
+<app-channel></app-channel>
 <!--<app-profile-page></app-profile-page>-->
-<<noscript><h2 style="color: #ff0000">Seems your browser doesn't support Javascript! Websocket relies on Javascript being
-  enabled. Please enable
-  Javascript and reload this page!</h2></noscript>
-<div id="main-content" class="container">
+<!--<<noscript><h2 style="color: #ff0000">Seems your browser doesn't support Javascript! Websocket relies on Javascript being-->
+<!--  enabled. Please enable-->
+<!--  Javascript and reload this page!</h2></noscript>-->
+<!--<div id="main-content" class="container">-->
 
-  <div class="row">
-    <div class="col-md-12">
-      {{ greeting }}
-    </div>
-  </div>
+<!--  <div class="row">-->
+<!--    <div class="col-md-12">-->
+<!--      {{ greeting }}-->
+<!--    </div>-->
+<!--  </div>-->
 
-  <div class="row">
-    <div class="col-md-6">
-      <form class="form-inline">
-        <div class="form-group">
-          <label for="connect">WebSocket connection:</label>
-          <button (click)="connect()" class="btn btn-default" type="submit">Connect</button>
-          <button (click)="disconnect()" class="btn btn-default" type="submit" disabled="disabled">Disconnect
-          </button>
-        </div>
-      </form>
-    </div>
-    <div class="col-md-6">
-      <form class="form-inline">
-        <div class="form-group">
-          <label for="name">What is your name?</label>
-          <input type="text" [(ngModel)]="name" class="form-control" name="name"> <br>
-        </div>
-        <button (click)="sendMessage()" class="btn btn-default" type="submit">Send</button>
-      </form>
-    </div>
+<!--  <div class="row">-->
+<!--    <div class="col-md-6">-->
+<!--      <form class="form-inline">-->
+<!--        <div class="form-group">-->
+<!--          <label for="connect">WebSocket connection:</label>-->
+<!--          <button (click)="connect()" class="btn btn-default" type="submit">Connect</button>-->
+<!--          <button (click)="disconnect()" class="btn btn-default" type="submit" disabled="disabled">Disconnect-->
+<!--          </button>-->
+<!--        </div>-->
+<!--      </form>-->
+<!--    </div>-->
+<!--    <div class="col-md-6">-->
+<!--      <form class="form-inline">-->
+<!--        <div class="form-group">-->
+<!--          <label for="name">What is your name?</label>-->
+<!--          <input type="text" [(ngModel)]="name" class="form-control" name="name"> <br>-->
+<!--        </div>-->
+<!--        <button (click)="sendMessage()" class="btn btn-default" type="submit">Send</button>-->
+<!--      </form>-->
+<!--    </div>-->
 
-    <p> {{ greeting }}</p>
-  </div>
+<!--    <p> {{ greeting }}</p>-->
+<!--  </div>-->
 
-</div>
-<router-outlet></router-outlet>
+<!--</div>-->
+<!--<router-outlet></router-outlet>-->
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.4.0/sockjs.min.js"></script>
