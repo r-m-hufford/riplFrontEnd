@@ -9,7 +9,8 @@ import { FormsModule } from '@angular/forms';
 import { ForgotPasswordComponent } from './forgot-password/forgot-password.component';
 import { LoginComponent } from './login/login.component';
 import {HttpClientModule} from '@angular/common/http';
-import {ChannelService} from './channel.service';
+import {ChannelService} from './services/channel.service';
+import { ChatComponent } from './chat/chat.component';
 
 
 @NgModule({
@@ -18,7 +19,8 @@ import {ChannelService} from './channel.service';
     ProfilePageComponent,
     ChannelComponent,
     ForgotPasswordComponent,
-    LoginComponent
+    LoginComponent,
+    ChatComponent
   ],
   imports: [
     BrowserModule,
