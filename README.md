@@ -30,6 +30,7 @@ https://github.com/r-m-hufford/riplFrontEnd
   * Users will have the ability to create new channels
   * Direct messaging
   * Account creation
+  * Forgot Password page
 
 ## Tech Stack
 * **UML Diagram** - Plant UML
