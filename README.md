@@ -40,7 +40,7 @@ https://github.com/r-m-hufford/riplFrontEnd
 * **Database** - Postgres hosted by Heroku
 * **Deployment** - Front and Back ends hosted on Heroku
 
-#DEMO
+# DEMO
 ![ripl log in large](https://user-images.githubusercontent.com/75540963/118400886-91297c80-b631-11eb-80e3-4ceba2938c26.png)
 ![ripl user page](https://user-images.githubusercontent.com/75540963/118400892-94bd0380-b631-11eb-9983-eb88a38f754f.png)
 ![ripl channel](https://user-images.githubusercontent.com/75540963/118400899-98508a80-b631-11eb-9ff7-a6d87ba0633d.png)
