@@ -42,5 +42,8 @@ https://github.com/r-m-hufford/riplFrontEnd
 
 # DEMO
 ![ripl log in large](https://user-images.githubusercontent.com/75540963/118400886-91297c80-b631-11eb-80e3-4ceba2938c26.png)
-![ripl user page](https://user-images.githubusercontent.com/75540963/118400892-94bd0380-b631-11eb-9983-eb88a38f754f.png)
-![ripl channel](https://user-images.githubusercontent.com/75540963/118400899-98508a80-b631-11eb-9ff7-a6d87ba0633d.png)
+![ripl user page](https://user-images.githubusercontent.com/75540963/118401694-9fc56300-b634-11eb-8e5a-9d149ec6d0e8.png)
+![ripl user edit](https://user-images.githubusercontent.com/75540963/118401622-655bc600-b634-11eb-932e-92fdffc3ff65.png)
+![ripl channel](https://user-images.githubusercontent.com/75540963/118401635-6e4c9780-b634-11eb-857d-f60d7aece0c0.png)
+
+
